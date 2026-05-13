@@ -1,0 +1,7 @@
+Methodology:
+1. Reconnaissance
+2. Scanning
+3. Exploitation
+4. Post-Exploitation
+5. Reporting
+6. Incident Response Simulation

@@ -1,0 +1,5 @@
+Penetration Testing Notes:
+- Recon using Nmap
+- Scanning using Burp Suite
+- Exploitation using SQLMap and Hydra
+- SIEM monitoring using ELK Stack

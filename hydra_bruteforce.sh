@@ -1,0 +1,1 @@
+hydra -l admin -P passwords.txt <target> http-post-form

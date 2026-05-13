@@ -1,0 +1,1 @@
+nmap -sV -A <target_ip>
